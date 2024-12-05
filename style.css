@@ -23,7 +23,6 @@ li:hover{
 a{
     text-decoration: none;
 }
-
 .title{
     padding-top: 100px;
     margin-bottom: 150px;
@@ -34,14 +33,11 @@ a{
     /* font-size: 2/0px; */
     margin-top:10px ;
 }
-
 .card{
     display: inline-block;
     width: 33%;
     height: 400px;
-}
-.card img{
-    padding-left: 40%;
+    text-align: center;
 }
 .m{
     color: #707070;
